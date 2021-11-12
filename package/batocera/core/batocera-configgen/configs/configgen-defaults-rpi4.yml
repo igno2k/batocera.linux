@@ -1,7 +1,3 @@
-default:
-  options:
-    retroarch.audio_driver: tinyalsa
-
 nds:
   emulator: drastic
   core:     drastic
